@@ -8,6 +8,8 @@ You are allowed, and **encouraged**, to collaborate with other peers. Please fol
 
 ### Task 1: Minimum Viable Product
 
+- [x] Initial commit
+
 Pick any API, could be one of your past projects, and deploy it to `heroku`.
 
 ### Task 2: Stretch Goal
